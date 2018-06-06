@@ -14,7 +14,7 @@ import Random.Pcg as Random
 import Test exposing (Test)
 import Test.Runner.Html.App as App
 import Test.Runner.Html.View as View
-import View as View
+import ViewPlain as View
 
 
 {-| A program which will run tests and report their results.
